@@ -1,0 +1,3 @@
+Não foi possível fazer o upload do arquivo .pkl do modelo por motivo de espaço, mas ele é criado rodando essa linha de código:
+
+pickle.dump(model_xgb_tuned, open('webapp/modelo/modelo_rossmann.pkl', 'wb'))
